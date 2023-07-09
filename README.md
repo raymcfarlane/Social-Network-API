@@ -16,7 +16,7 @@ SO THAT my website can handle large amounts of unstructured data
 ```
 
 ## Usage
- - [Video Walk-through]()
+ - [Video Walk-through](https://drive.google.com/file/d/1VlCd4g1ZhkJseZUp28ezMqLO1olm58p6/view)
 
   - Images:
   ![Insomnia Users](Insomnia-social.JPG)
